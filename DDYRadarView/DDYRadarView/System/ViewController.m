@@ -54,7 +54,7 @@
 }
 
 - (void)radarView:(DDYRadarView *)radarView didSelectItemAtIndex:(NSInteger)index {
-    NSLog(@"click index:%ld",index);
+    NSLog(@"click index:%ld",(long)index);
 }
 
 @end
