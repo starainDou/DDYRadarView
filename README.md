@@ -7,7 +7,7 @@
 * 可以设定旋转速度（角度/s）
 * 顺时针还是逆时针都没问题
 
-![DDYRadarView.png](https://github.com/starainDou/DDYRadarView/blob/master/DDYRadarView.png)
+![DDYRadarView.png](https://github.com/starainDou/DDYDemoImage/blob/master/DDYRadarView.png)
 
 
 ```
